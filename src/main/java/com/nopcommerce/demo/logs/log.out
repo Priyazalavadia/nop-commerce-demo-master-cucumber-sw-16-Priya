@@ -1,0 +1,69 @@
+2022-12-19 19:12:802 INFO  HomePage :124 - Enter Email : [[ChromeDriver: chrome on WINDOWS (21c35c08aa299f4b323e702dcd39e455)] -> name: Email]
+2022-12-19 19:12:961 INFO  HomePage :130 - Enter Password : [[ChromeDriver: chrome on WINDOWS (21c35c08aa299f4b323e702dcd39e455)] -> id: Password]
+2022-12-19 19:12:873 INFO  HomePage :124 - Enter Email : [[ChromeDriver: chrome on WINDOWS (5f35a47ab1659a63e6893523a1aea5e0)] -> name: Email]
+2022-12-19 19:12:56 INFO  HomePage :130 - Enter Password : [[ChromeDriver: chrome on WINDOWS (5f35a47ab1659a63e6893523a1aea5e0)] -> id: Password]
+2022-12-19 19:12:607 INFO  HomePage :124 - Enter Email : [[ChromeDriver: chrome on WINDOWS (846a9edbf1e5531ce38988c346191a94)] -> name: Email]
+2022-12-19 19:12:902 INFO  HomePage :130 - Enter Password : [[ChromeDriver: chrome on WINDOWS (846a9edbf1e5531ce38988c346191a94)] -> id: Password]
+2022-12-19 19:12:737 INFO  HomePage :124 - Enter Email : [[ChromeDriver: chrome on WINDOWS (df9e5e97510a1b85e5f0c86a4a90779f)] -> name: Email]
+2022-12-19 19:12:505 INFO  HomePage :130 - Enter Password : [[ChromeDriver: chrome on WINDOWS (df9e5e97510a1b85e5f0c86a4a90779f)] -> id: Password]
+2022-12-19 19:12:734 INFO  HomePage :124 - Enter Email : [[ChromeDriver: chrome on WINDOWS (23b54749126336dbc91c92e1c180d999)] -> name: Email]
+2022-12-19 19:12:977 INFO  HomePage :130 - Enter Password : [[ChromeDriver: chrome on WINDOWS (23b54749126336dbc91c92e1c180d999)] -> id: Password]
+2022-12-19 19:12:501 INFO  HomePage :124 - Enter Email : [[ChromeDriver: chrome on WINDOWS (f816e21f86c8d7bf196510911035c496)] -> name: Email]
+2022-12-19 19:12:763 INFO  HomePage :130 - Enter Password : [[ChromeDriver: chrome on WINDOWS (f816e21f86c8d7bf196510911035c496)] -> id: Password]
+2022-12-19 19:12:325 INFO  HomePage :142 - Click on register button : 'Proxy element for: DefaultElementLocator 'By.cssSelector: #register-button'
+2022-12-19 19:12:698 INFO  HomePage :142 - Click on register button : 'Proxy element for: DefaultElementLocator 'By.cssSelector: #register-button'
+2022-12-19 20:12:155 INFO  HomePage :124 - Enter Email : [[ChromeDriver: chrome on WINDOWS (c6e5064631ef24981d5c82540a13e58a)] -> name: Email]
+2022-12-19 20:12:234 INFO  HomePage :130 - Enter Password : [[ChromeDriver: chrome on WINDOWS (c6e5064631ef24981d5c82540a13e58a)] -> id: Password]
+2022-12-19 20:12:466 INFO  HomePage :124 - Enter Email : [[ChromeDriver: chrome on WINDOWS (5a2d617e7508e810601cf51bbc933129)] -> name: Email]
+2022-12-19 20:12:559 INFO  HomePage :130 - Enter Password : [[ChromeDriver: chrome on WINDOWS (5a2d617e7508e810601cf51bbc933129)] -> id: Password]
+2022-12-19 20:12:493 INFO  HomePage :124 - Enter Email : [[ChromeDriver: chrome on WINDOWS (4d0e7b3c4a3dc5098b9878f6f6aa1abd)] -> name: Email]
+2022-12-19 20:12:583 INFO  HomePage :130 - Enter Password : [[ChromeDriver: chrome on WINDOWS (4d0e7b3c4a3dc5098b9878f6f6aa1abd)] -> id: Password]
+2022-12-19 20:12:262 INFO  HomePage :142 - Click on register button : 'Proxy element for: DefaultElementLocator 'By.cssSelector: #register-button'
+2022-12-19 20:12:738 INFO  HomePage :142 - Click on register button : 'Proxy element for: DefaultElementLocator 'By.cssSelector: #register-button'
+2022-12-19 21:12:232 INFO  HomePage :124 - Enter Email : [[ChromeDriver: chrome on WINDOWS (a1581120754d2fff9a56b3c7af556ef4)] -> name: Email]
+2022-12-19 21:12:415 INFO  HomePage :130 - Enter Password : [[ChromeDriver: chrome on WINDOWS (a1581120754d2fff9a56b3c7af556ef4)] -> id: Password]
+2022-12-19 21:12:472 INFO  HomePage :124 - Enter Email : [[ChromeDriver: chrome on WINDOWS (31f68dd9a1106063a61f640ffef5d29d)] -> name: Email]
+2022-12-19 21:12:829 INFO  HomePage :130 - Enter Password : [[ChromeDriver: chrome on WINDOWS (31f68dd9a1106063a61f640ffef5d29d)] -> id: Password]
+2022-12-19 21:12:425 INFO  HomePage :124 - Enter Email : [[ChromeDriver: chrome on WINDOWS (88e96ea6edab014c7be5d35abd202c72)] -> name: Email]
+2022-12-19 21:12:787 INFO  HomePage :130 - Enter Password : [[ChromeDriver: chrome on WINDOWS (88e96ea6edab014c7be5d35abd202c72)] -> id: Password]
+2022-12-19 21:12:873 INFO  HomePage :142 - Click on register button : 'Proxy element for: DefaultElementLocator 'By.cssSelector: #register-button'
+2022-12-19 21:12:707 INFO  HomePage :142 - Click on register button : 'Proxy element for: DefaultElementLocator 'By.cssSelector: #register-button'
+2022-12-19 21:12:706 INFO  HomePage :142 - Click on register button : 'Proxy element for: DefaultElementLocator 'By.cssSelector: #register-button'
+2022-12-19 21:12:232 INFO  HomePage :142 - Click on register button : 'Proxy element for: DefaultElementLocator 'By.cssSelector: #register-button'
+2022-12-19 21:12:156 INFO  HomePage :142 - Click on register button : 'Proxy element for: DefaultElementLocator 'By.cssSelector: #register-button'
+2022-12-19 21:12:640 INFO  HomePage :142 - Click on register button : 'Proxy element for: DefaultElementLocator 'By.cssSelector: #register-button'
+2022-12-19 22:12:608 INFO  HomePage :142 - Click on register button : 'Proxy element for: DefaultElementLocator 'By.cssSelector: #register-button'
+2022-12-19 22:12:204 INFO  HomePage :142 - Click on register button : 'Proxy element for: DefaultElementLocator 'By.cssSelector: #register-button'
+2022-12-19 22:12:520 INFO  HomePage :142 - Click on register button : 'Proxy element for: DefaultElementLocator 'By.cssSelector: #register-button'
+2022-12-19 22:12:195 INFO  HomePage :142 - Click on register button : 'Proxy element for: DefaultElementLocator 'By.cssSelector: #register-button'
+2022-12-19 22:12:202 INFO  HomePage :104 - Enter Firstname: [[ChromeDriver: chrome on WINDOWS (99f7631e99978f35ab69838b7854e165)] -> id: FirstName]
+2022-12-19 22:12:425 INFO  HomePage :110 - Enter Lastname: [[ChromeDriver: chrome on WINDOWS (99f7631e99978f35ab69838b7854e165)] -> id: LastName]
+2022-12-19 22:12:99 INFO  HomePage :118 - Select day: ' 22 ', month : 'February ', year : '[[ChromeDriver: chrome on WINDOWS (99f7631e99978f35ab69838b7854e165)] -> name: DateOfBirthDay]
+2022-12-19 22:12:403 INFO  HomePage :124 - Enter Email : [[ChromeDriver: chrome on WINDOWS (99f7631e99978f35ab69838b7854e165)] -> name: Email]
+2022-12-19 22:12:600 INFO  HomePage :130 - Enter Password : [[ChromeDriver: chrome on WINDOWS (99f7631e99978f35ab69838b7854e165)] -> id: Password]
+2022-12-19 22:12:791 INFO  HomePage :136 - Enter Confirm Password : '[[ChromeDriver: chrome on WINDOWS (99f7631e99978f35ab69838b7854e165)] -> id: ConfirmPassword]
+2022-12-19 22:12:463 INFO  HomePage :142 - Click on register button : '[[ChromeDriver: chrome on WINDOWS (99f7631e99978f35ab69838b7854e165)] -> css selector: #register-button]
+2022-12-19 22:12:598 INFO  HomePage :160 - Get your reg completed text: [[ChromeDriver: chrome on WINDOWS (99f7631e99978f35ab69838b7854e165)] -> css selector: .result]
+2022-12-19 22:12:255 INFO  HomePage :166 - Click on Continue button: [[ChromeDriver: chrome on WINDOWS (99f7631e99978f35ab69838b7854e165)] -> css selector: .button-1.register-continue-button]
+2022-12-19 22:12:745 INFO  HomePage :124 - Enter Email : [[ChromeDriver: chrome on WINDOWS (ed73b3ae5ebd88f573aeff9868ee73d2)] -> name: Email]
+2022-12-19 22:12:499 INFO  HomePage :130 - Enter Password : [[ChromeDriver: chrome on WINDOWS (ed73b3ae5ebd88f573aeff9868ee73d2)] -> id: Password]
+2022-12-19 22:12:962 INFO  HomePage :124 - Enter Email : [[ChromeDriver: chrome on WINDOWS (9d1d3094682ac209bd5404e4c1860d37)] -> name: Email]
+2022-12-19 22:12:184 INFO  HomePage :130 - Enter Password : [[ChromeDriver: chrome on WINDOWS (9d1d3094682ac209bd5404e4c1860d37)] -> id: Password]
+2022-12-19 22:12:928 INFO  HomePage :124 - Enter Email : [[ChromeDriver: chrome on WINDOWS (18d15d817b0892798f278300c4f7d71d)] -> name: Email]
+2022-12-19 22:12:187 INFO  HomePage :130 - Enter Password : [[ChromeDriver: chrome on WINDOWS (18d15d817b0892798f278300c4f7d71d)] -> id: Password]
+2022-12-20 12:12:99 INFO  HomePage :124 - Enter Email : [[ChromeDriver: chrome on WINDOWS (6529dab95667931acf1f0252dd8cf2eb)] -> name: Email]
+2022-12-20 12:12:171 INFO  HomePage :130 - Enter Password : [[ChromeDriver: chrome on WINDOWS (6529dab95667931acf1f0252dd8cf2eb)] -> id: Password]
+2022-12-20 12:12:776 INFO  HomePage :124 - Enter Email : [[ChromeDriver: chrome on WINDOWS (4d14942c9f96d9e3940337605811d4b7)] -> name: Email]
+2022-12-20 12:12:849 INFO  HomePage :130 - Enter Password : [[ChromeDriver: chrome on WINDOWS (4d14942c9f96d9e3940337605811d4b7)] -> id: Password]
+2022-12-20 12:12:996 INFO  HomePage :124 - Enter Email : [[ChromeDriver: chrome on WINDOWS (627d5c3d94e952f0cbc07f24b3ccb96e)] -> name: Email]
+2022-12-20 12:12:70 INFO  HomePage :130 - Enter Password : [[ChromeDriver: chrome on WINDOWS (627d5c3d94e952f0cbc07f24b3ccb96e)] -> id: Password]
+2022-12-20 12:12:214 INFO  HomePage :142 - Click on register button : 'Proxy element for: DefaultElementLocator 'By.cssSelector: #register-button'
+2022-12-20 12:12:96 INFO  HomePage :104 - Enter Firstname: [[ChromeDriver: chrome on WINDOWS (34a2e165cc48c7380dd6cceda9ed51ca)] -> id: FirstName]
+2022-12-20 12:12:169 INFO  HomePage :110 - Enter Lastname: [[ChromeDriver: chrome on WINDOWS (34a2e165cc48c7380dd6cceda9ed51ca)] -> id: LastName]
+2022-12-20 12:12:416 INFO  HomePage :118 - Select day: ' 22 ', month : 'February ', year : '[[ChromeDriver: chrome on WINDOWS (34a2e165cc48c7380dd6cceda9ed51ca)] -> name: DateOfBirthDay]
+2022-12-20 12:12:542 INFO  HomePage :124 - Enter Email : [[ChromeDriver: chrome on WINDOWS (34a2e165cc48c7380dd6cceda9ed51ca)] -> name: Email]
+2022-12-20 12:12:621 INFO  HomePage :130 - Enter Password : [[ChromeDriver: chrome on WINDOWS (34a2e165cc48c7380dd6cceda9ed51ca)] -> id: Password]
+2022-12-20 12:12:699 INFO  HomePage :136 - Enter Confirm Password : '[[ChromeDriver: chrome on WINDOWS (34a2e165cc48c7380dd6cceda9ed51ca)] -> id: ConfirmPassword]
+2022-12-20 12:12:94 INFO  HomePage :142 - Click on register button : '[[ChromeDriver: chrome on WINDOWS (34a2e165cc48c7380dd6cceda9ed51ca)] -> css selector: #register-button]
+2022-12-20 12:12:131 INFO  HomePage :160 - Get your reg completed text: [[ChromeDriver: chrome on WINDOWS (34a2e165cc48c7380dd6cceda9ed51ca)] -> css selector: .result]
+2022-12-20 12:12:467 INFO  HomePage :166 - Click on Continue button: [[ChromeDriver: chrome on WINDOWS (34a2e165cc48c7380dd6cceda9ed51ca)] -> css selector: .button-1.register-continue-button]
